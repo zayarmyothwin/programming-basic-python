@@ -39,18 +39,18 @@ Pseudo code ဆိုတာအတုအယောက်code ပုံမှန်
 Flow chart ဆိုတာကဘာပြီးရင်ဘာလုပ်မယ်ဆိုတာကို အဆင့်ဆင့်ပုံတွေနဲ့ဆွဲပြထားတာပါ။
 #### Terminal
 ![Terminal](/image-note/terminal.png)
-Flow chart အစ သို့မဟုတ် အဆုံး စသည့်နေရာတွေမှာအသုံးပြုပါတယ်။
-အစကို start begin
+* Flow chart အစ သို့မဟုတ် အဆုံး စသည့်နေရာတွေမှာအသုံးပြုပါတယ်။
+* အစကို start begin
 ![Start,Begin](/image-note/start-begin.png)
-အဆုံးကိုတော့ End, Exit, Return တွေကိုအသုံးပြုပါတယ်။
+* အဆုံးကိုတော့ End, Exit, Return တွေကိုအသုံးပြုပါတယ်။
 ![End](/image-note/end.png)
 
 #### Line with arrows
-တစ်ခုကနေနောက်တစ်ခုကိုသွားဖို့ညွှန်ပြထားတာပါ။ဒါအဆင့်ပြီးရင်ဘယ်ကိုသွားမလဲဆိုတာကိုညွှန်ပြတာပါ။
+* တစ်ခုကနေနောက်တစ်ခုကိုသွားဖို့ညွှန်ပြထားတာပါ။ဒါအဆင့်ပြီးရင်ဘယ်ကိုသွားမလဲဆိုတာကိုညွှန်ပြတာပါ။
 ![arrow](/image-note/arrow.png)
 
 #### Rectangle
-Flowchart မှာစတုဂံတွေကို process, task, action, operation စသည့်အတွက်အသုံးပြုပါတယ်။ စတုဂံပုံဟာ action တခုခုလုပ်ဖို့တခုခုပြီးမြောက်ဖို့အတွက်ညွှန်ပြထားပါတယ်။
+* Flowchart မှာစတုဂံတွေကို process, task, action, operation စသည့်အတွက်အသုံးပြုပါတယ်။ စတုဂံပုံဟာ action တခုခုလုပ်ဖို့တခုခုပြီးမြောက်ဖို့အတွက်ညွှန်ပြထားပါတယ်။
 ![Rectangle](/image-note/rectangle.png)
 
 #### Decision
