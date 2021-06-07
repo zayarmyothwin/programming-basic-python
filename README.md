@@ -39,3 +39,41 @@ Pseudo code ဆိုတာအတုအယောက်code ပုံမှန်
 Flow chart ဆိုတာကဘာပြီးရင်ဘာလုပ်မယ်ဆိုတာကို အဆင့်ဆင့်ပုံတွေနဲ့ဆွဲပြထားတာပါ။
 #### Terminal
 ![Terminal](/image-note/terminal.png)
+Flow chart အစ သို့မဟုတ် အဆုံး စသည့်နေရာတွေမှာအသုံးပြုပါတယ်။
+အစကို start begin
+![Start,Begin](/image-note/start-begin.png)
+အဆုံးကိုတော့ End, Exit, Return တွေကိုအသုံးပြုပါတယ်။
+![End](/image-note/end.png)
+
+#### Line with arrows
+တစ်ခုကနေနောက်တစ်ခုကိုသွားဖို့ညွှန်ပြထားတာပါ။ဒါအဆင့်ပြီးရင်ဘယ်ကိုသွားမလဲဆိုတာကိုညွှန်ပြတာပါ။
+![arrow](/image-note/arrow.png)
+
+#### Rectangle
+Flowchart မှာစတုဂံတွေကို process, task, action, operation စသည့်အတွက်အသုံးပြုပါတယ်။ စတုဂံပုံဟာ action တခုခုလုပ်ဖို့တခုခုပြီးမြောက်ဖို့အတွက်ညွှန်ပြထားပါတယ်။
+![Rectangle](/image-note/rectangle.png)
+
+#### Decision
+![Decision](/image-note/decision.png)
+user ကိုမေးခွန်းမေးပြီးတော့အဖြေအပေါ်မူတည်ပြီးအလုပ်လုပ်စေချင်တဲ့အခါမှာ decision ကိုအသုံးပြုရပါတယ်။ input တစ်ခုဝင်ပြီးတော့ output မှာ Yes, No ဖြစ်ပါတယ်။ဒါဖြစ်ခဲ့ရင်ဒါလုပ် မဟုတ်ခဲ့ရင်ဘာလုပ်စသည်အတွက်အသုံးပြုနိုင်ပါတယ်။
+![decision yesno](/image-note/yesno.png)
+
+#### Circle
+Flowchart ကအရမ်းရှည်သွားရင်သီးသန့်ဆွဲဖို့အတွက် circle ကိုအသုံးပြုပါတယ်။ flowchart တစ်ခုနဲ့တစ်ခုကို connect လုပ်ထားတယ်ဆိုတာကိုဖော်ပြထားသည့်သဘောပါ။ Circle အတွင်းမှာနာမည်ပါဝင်ပါတယ်။
+![Circle](/image-note/circle.png)
+
+#### Input/Output
+User ဆီကနေ Data တွေကိုလက်ခံတော့မယ်ဆိုရင်တော့အနားပြိုင်စတုဂံကိုအသုံးပြုပါတယ်။
+![Input/output](/image-note/input.png)
+
+### Flowchart with codes
+Programming ရဲ့အစ Hello World
+
+#### Pseudo code နဲ့ဆိုရင်
+print("Hello World")
+
+#### Flow chart နဲ့ဆိုရင်
+![Hello World](/image-note/helloworld.png)
+
+#### Python နဲ့ဆိုရင်
+print("Hello World")
