@@ -50,20 +50,20 @@ Flow chart ဆိုတာကဘာပြီးရင်ဘာလုပ်မယ
 ![arrow](/image-note/arrow.png)
 
 #### Rectangle
-* Flowchart မှာစတုဂံတွေကို process, task, action, operation စသည့်အတွက်အသုံးပြုပါတယ်။ စတုဂံပုံဟာ action တခုခုလုပ်ဖို့တခုခုပြီးမြောက်ဖို့အတွက်ညွှန်ပြထားပါတယ်။
+* Flowchart မှာစတုဂံတွေကို process, task, action, operationစသည့်အတွက်အသုံးပြုပါတယ်။စတုဂံပုံဟာ action တခုခုလုပ်ဖို့တခုခုပြီးမြောက်ဖို့အတွက်ညွှန်ပြထားပါတယ်။
 ![Rectangle](/image-note/rectangle.png)
 
 #### Decision
 ![Decision](/image-note/decision.png)
-user ကိုမေးခွန်းမေးပြီးတော့အဖြေအပေါ်မူတည်ပြီးအလုပ်လုပ်စေချင်တဲ့အခါမှာ decision ကိုအသုံးပြုရပါတယ်။ input တစ်ခုဝင်ပြီးတော့ output မှာ Yes, No ဖြစ်ပါတယ်။ဒါဖြစ်ခဲ့ရင်ဒါလုပ် မဟုတ်ခဲ့ရင်ဘာလုပ်စသည်အတွက်အသုံးပြုနိုင်ပါတယ်။
+* user ကိုမေးခွန်းမေးပြီးတော့အဖြေအပေါ်မူတည်ပြီးအလုပ်လုပ်စေချင်တဲ့အခါမှာ decision ကိုအသုံးပြုရပါတယ်။ input တစ်ခုဝင်ပြီးတော့ output မှာ Yes, No ဖြစ်ပါတယ်။ဒါဖြစ်ခဲ့ရင်ဒါလုပ် မဟုတ်ခဲ့ရင်ဘာလုပ်စသည်အတွက်အသုံးပြုနိုင်ပါတယ်။
 ![decision yesno](/image-note/yesno.png)
 
 #### Circle
-Flowchart ကအရမ်းရှည်သွားရင်သီးသန့်ဆွဲဖို့အတွက် circle ကိုအသုံးပြုပါတယ်။ flowchart တစ်ခုနဲ့တစ်ခုကို connect လုပ်ထားတယ်ဆိုတာကိုဖော်ပြထားသည့်သဘောပါ။ Circle အတွင်းမှာနာမည်ပါဝင်ပါတယ်။
+* Flowchart ကအရမ်းရှည်သွားရင်သီးသန့်ဆွဲဖို့အတွက် circle ကိုအသုံးပြုပါတယ်။ flowchart တစ်ခုနဲ့တစ်ခုကို connect လုပ်ထားတယ်ဆိုတာကိုဖော်ပြထားသည့်သဘောပါ။ Circle အတွင်းမှာနာမည်ပါဝင်ပါတယ်။
 ![Circle](/image-note/circle.png)
 
 #### Input/Output
-User ဆီကနေ Data တွေကိုလက်ခံတော့မယ်ဆိုရင်တော့အနားပြိုင်စတုဂံကိုအသုံးပြုပါတယ်။
+* User ဆီကနေ Data တွေကိုလက်ခံတော့မယ်ဆိုရင်တော့အနားပြိုင်စတုဂံကိုအသုံးပြုပါတယ်။
 ![Input/output](/image-note/input.png)
 
 ### Flowchart with codes
@@ -77,3 +77,40 @@ print("Hello World")
 
 #### Python နဲ့ဆိုရင်
 print("Hello World")
+
+### Condition
+ဒါမှမဟုတ်ရင်ဒါလုပ်မယ်စသည်ဖြင့်အခြေအနေကိုစစ်သည့်အရာတွေအတွက် if,switch စတဲ့ syntax ကိုအသုံးပြုရပါတယ်။ Python မှာတော့ switch ကို support မလုပ်ဘူး။
+
+### Looping
+Looping ဆိုတာကတော့ထပ်ခါထပ်ခါလုပ်တဲ့အခါတွေမှာအသုံးပြုပါတယ်။ Looping အမျိုးအစား ၃ မျိုးရှိပါတယ်။
+* For Loop
+* While Loop
+* Do While Loop
+Python မှာတော့ Do While Loop ကို support မလုပ်ပါဘူး။
+
+#### For Loop
+အကြိမ်အရေအတွက်အတိအကျရှိတယ်ဆိုရင်တော့ For Loop ကိုအသုံးပြုနိုင်ပါတယ်။ဘယ်ကနေစပြီးဘယ်အထိသိတယ်ဆိုရင်တော့ For Loop ကိုအသုံးပြနိုင်ပါတယ်။
+
+#### While Loop
+အကြိမ်အရေအတွက်ကိုမသိဘူး ဒါမှမဟုတ် condition တစ်ခုခုကိုထားပြီးတော့ loop လုပ်မလားမလုပ်ဘူးလားဆိုတာကိုသိချင်တဲ့အခါမှာတော့ While Loop ကိုအသုံးပြုရပါတယ်။
+
+#### Do While Loop
+Do While Loop က While Loop လိုပါဘဲ။ဒါပေမဲ့ အနည်းဆုံးတကြိမ်အလုပ်လုပ်တယ်။
+
+### Array
+Array ဆိုတာက variable တွေအများကြီးကိုသိမ်းထားတဲ့ variable တစ်ခု။ Array က variable တွေကိုအခန်းနဲ့သိမ်းပါတယ်။
+
+#### Immutable and Mutable
+Array မှာ ၂မျိုးရှိတယ်။မပြောင်းလို့ရတဲ့ Array(immutable) နဲ့ ပြောင်းလဲလို့ရတဲ့ Array(mutable) Type ၂ခုရှိပါတယ်။ Python မှာကတော့ tupe(immutable) နဲ့ list(mutable) ဆိုပြီး ၂မျိုးရှိတယ်။ tuple ကိုလက်သည်းကွင်းနဲ့ ရေးပြီးတော့ list ကိုတော့လေးထောင့်ကွင်းနဲ့ရေးပါတယ်။
+```python
+t=(1,2,3) #immutable
+l=[1,2,3] #mutable
+```
+### Function
+Code တွေထပ်နေရင် သို့မဟုတ် ပိုပြီးတော့အဓိပ္ပာယ်ပြည့်စုံအောင် function ခွဲရေးပါတယ်။
+
+## အခန်း(၃) Object Oriented
+Object Oriented ဆိုတာကတော့ programming ကိုရေးသားရာမှာသက်ဆိုင်ရာအစုလိုက်ခွဲထုတ်ပြီးရေးသားထားတာပါ။ ဉပမာ - ကားတစ်စီးကို object လို့သတ်မှတ်လိုက်။သူ့မှာ properties တွေ function တွေရှိမယ်။ Properties တွေကတော့ ဘီး ၄ခုရှိမယ်။ Function တွေကတော့ ရှေ့သွားမယ်၊နောက်သွားမယ်၊ဘယ်ကွေ့၊ညာကွေ့တွေပါမယ်။ Programming မှာဖန်တီးတဲ့အခါမှာလည်း Object ကိုဖန်တီးတယ်။ပြီးရင် properties တွေ function တွေကိုသက်ဆိုင်ရာ Object မှာထည့်သွင်းပါတယ်။
+
+### Classes
+Class ဆိုတာကတော့ Object တစ်ခုဖန်တီးဖို့အတွက် user-defiend လုပ်ထားတာပါ။ Class ထဲမှာ attributes, class variables, method စတာတွေပါဝင်ပါတယ်။
