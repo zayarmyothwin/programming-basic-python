@@ -114,3 +114,33 @@ Object Oriented ဆိုတာကတော့ programming ကိုရေးသ
 
 ### Classes
 Class ဆိုတာကတော့ Object တစ်ခုဖန်တီးဖို့အတွက် user-defiend လုပ်ထားတာပါ။ Class ထဲမှာ attributes, class variables, method စတာတွေပါဝင်ပါတယ်။
+
+#### Defining a Class
+Python မှာ class ကိုဖန်တီးတော့မယ်ဆိုရင်
+```python
+class ClassName:
+```
+ClassName ကနှစ်သက်ရာ class နာမည်ပါ။ဉပမာ-
+```python
+class animal:
+```
+animal ဆိုတဲ့ class ကိုတည်ဆောက်ပီးပီပြီးရင် class ထဲမှာပါဝင်မယ့် variable ကိုသတ်မှတ်ပါမယ်။ animal ဖြစ်တဲ့အတွက်ကြောင့်ခြေထောက် ၄ချောင်းဖစ်နိုင်သလို၂ချောင်းတည်းရှိတဲ့ animal လည်းဖြစ်နိုင်တယ်။ဒါကြောင့်
+```python
+class animal:
+    number_of_legs=0
+```
+### Instances
+Class ကြီးသက်သက်ဆိုရင်တော့ class တစ်ခုကိုဖန်တီးထားတာဘဲရှိပါတယ်။ class ကိုအသုံးပြုချင်ရင်တော့ instance တစ်ခုကိုတည်ဆောက်ရပါတယ်။တည်ဆောက်ပီးသား instance ကို variable ထဲမှာသိမ်းရပါတယ်။ class ထဲက variable တွေကိုခေါ်ယူအသုံးပြုလိုရင်တော့ instance ဆောက်ထားတဲ့ variable ထဲကနေတဆင့်ခေါ်ယူအသုံးပြုနိုင်ပါတယ်။
+```python
+class animal:
+    number_of_legs=0
+dog=animal()
+```
+dog variable က animal object တစ်ခုဖြစ်သွားပါပီ။Animal ထဲက variable ကိုခေါ်ယူအသုံးပြုလိုရင်။
+```python
+dog.number_of_legs
+```
+Variable ကိုအသုံးပြုကြည့်မယ်
+```python
+#code here
+```
